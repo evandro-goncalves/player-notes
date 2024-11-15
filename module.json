@@ -1,0 +1,26 @@
+{
+	"name": "player-notes",
+	"title": "Player Notes",
+	"description": "A simple module for Foundry VTT that allows players to create and organize notes during sessions.",
+	"author": "Evandro Goncalves",
+	"version": "0.0.1",
+	"compatibility": {
+		"minimum": "12",
+		"verified": "12"
+	},
+	"styles": ["styles/styles.css"],
+	"esmodules": ["scripts/main.js"],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	"dependencies": [],
+	"system": ["dnd5e"],
+	"socket": true,
+	"url": "",
+	"manifest": "https://github.com/evandro-goncalves/player-notes/module.json",
+	"download": ""
+}
