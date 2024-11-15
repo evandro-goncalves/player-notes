@@ -20,7 +20,7 @@
 	"dependencies": [],
 	"system": ["dnd5e"],
 	"socket": true,
-	"url": "",
+	"url": "https://github.com/evandro-goncalves/player-notes",
 	"manifest": "https://github.com/evandro-goncalves/player-notes/module.json",
 	"download": ""
 }
